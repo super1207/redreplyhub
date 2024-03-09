@@ -2,5 +2,9 @@
     {
         "repo": "super1207/redreply_plugin_drogon",
         "branch": "master"
+    },
+    {
+        "repo": "super1207/redreply_plugin_fortune",
+        "branch": "main"
     }
 ]
