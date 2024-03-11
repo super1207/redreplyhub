@@ -6,5 +6,9 @@
     {
         "repo": "super1207/redreply_plugin_fortune",
         "branch": "main"
+    },
+    {
+        "repo": "super1207/redreply_plugin_searchanimation",
+        "branch": "main"
     }
 ]
