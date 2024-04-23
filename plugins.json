@@ -14,5 +14,9 @@
     {
         "repo": "swyuuki/redreply_plugin_emojikitchen",
         "branch": "main"
+    },
+    {
+        "repo": "swyuuki/redreply_plugin_reply",
+        "branch": "master"
     }
 ]
