@@ -18,5 +18,9 @@
     {
         "repo": "swyuuki/redreply_plugin_reply",
         "branch": "master"
+    },
+    {
+        "repo": "super1207/redreply_plugin_asciipic",
+        "branch": "main"
     }
 ]
