@@ -22,5 +22,9 @@
     {
         "repo": "super1207/redreply_plugin_asciipic",
         "branch": "main"
+    },
+    {
+        "repo": "swyuuki/redreply_plugin_E",
+        "branch": "main"
     }
 ]
