@@ -34,5 +34,9 @@
     {
         "repo": "swyuuki/redreply_plugin_wwm",
         "branch": "main"
+    },
+    {
+        "repo": "swyuuki/redreply_plugin_MyNav",
+        "branch": "main"
     }
 ]
