@@ -42,5 +42,9 @@
     {
         "repo": "swyuuki/redreply_plugin_pjsk",
         "branch": "main"
+    },
+    {
+        "repo": "super1207/redreply_plugin_give_me_a_pic",
+        "branch": "main"
     }
 ]
