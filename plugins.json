@@ -50,5 +50,9 @@
     {
         "repo": "super1207/redreply_plugin_love",
         "branch": "main"
+    },
+    {
+        "repo": "swyuuki/redreply_plugin_up_pkg",
+        "branch": "main"
     }
 ]
